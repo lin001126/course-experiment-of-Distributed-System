@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/clientcode/RegistryResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/clientcode/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/clientcode/UserServiceImplService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/Event.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/EventDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/EventDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/TD.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/TDDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/TDDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/WebService_Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server1/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server1/UserServiceImplService.java" charset="GBK" />
+  </component>
+</project>
